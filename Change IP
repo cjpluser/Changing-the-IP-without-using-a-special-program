@@ -1,0 +1,9 @@
+REM Go it
+REM example.org/exp
+@echo off
+echo / ip ghadimi pak shavad
+ipconfig /flushdns
+ipconfig /release
+echo ip jadid jaygozin shavad
+ipconfig /renew
+exit
